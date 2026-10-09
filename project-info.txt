@@ -1,0 +1,19 @@
+PROJECT TITLE: LIBRARY BOOK MANAGEMENT
+Type: Core Java Console Application
+JDK: 21
+
+Classes:
+1. User.java
+2. Librarian.java
+3. Member.java
+4. Book.java
+5. Loan.java
+6. LoanStatus.java
+7. LibraryService.java
+8. FileManager.java
+9. Main.java
+10. BookNotFoundException.java
+11. MemberNotFoundException.java
+12. BookNotAvailableException.java
+
+The uploaded specification explicitly defines 8 main classes plus LoanStatus enum and file handling requirements.
